@@ -76,7 +76,23 @@ Skill tự động kích hoạt linh hoạt qua ngôn ngữ tự nhiên hàng ng
 
 ---
 
+## 📸 Kết quả kiểm thử
+
+Dưới đây là hình ảnh thực tế khi kiểm thử 3 chức năng chính của skill:
+
+### 1. Xin nghỉ học
+![Kiểm thử xin nghỉ học](screenshots/01-xin-nghi-hoc.png)
+
+### 2. Xin gia hạn bài tập
+![Kiểm thử xin gia hạn bài tập](screenshots/02-xin-gia-han.png)
+
+### 3. Hỏi bài
+![Kiểm thử hỏi bài](screenshots/03-hoi-bai.png)
+
+---
+
 ## 🔒 Bảo mật & An toàn
 
 - Skill hoạt động độc lập, không sử dụng API key, token hay yêu cầu kết nối mạng bên ngoài.
 - Tuyệt đối không thu thập, lưu trữ hay chia sẻ thông tin cá nhân của người dùng.
+
